@@ -1,0 +1,27 @@
+# --- Maven ---
+target/
+dependency-reduced-pom.xml
+
+# Maven Wrapper: diese Dateien SOLLTEST du einchecken
+# (also NICHT ignorieren!)
+# mvnw
+# mvnw.cmd
+# .mvn/wrapper/maven-wrapper.jar
+# .mvn/wrapper/maven-wrapper.properties
+
+# --- IntelliJ / IDEs ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.vscode/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Logs / Dumps ---
+*.log
+hs_err_pid*
+replay_pid*
